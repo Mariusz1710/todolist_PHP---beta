@@ -1,7 +1,31 @@
 window,body
 {
 	margin: 0;
+	background-color: #121212;
+	color: orange;
+}
 
+header
+{
+	text-align: center;
+	font-size: 48px;
+	color: aqua;
+	font-family: arial;
+	font-weight: bold;
+
+}
+
+table
+{
+	margin: 30px auto;
+	border-collapse: collapse;
+}
+
+th,td
+{
+	text-align: center;
+	border: 1px solid navy;
+	padding: 5px;
 }
 
 .error
