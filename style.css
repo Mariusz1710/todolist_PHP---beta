@@ -33,3 +33,23 @@ th,td
 	text-align: center;
 	color: red;
 }
+
+.input_form
+{
+	width: 50vw;
+	margin: 30px auto;
+	background-color: beige;
+	border-radius: 5px;
+}
+
+.input_task
+{
+	width: 75%;	
+}
+
+.input_submit
+{
+	background-color: olive;
+	border: red;
+}
+

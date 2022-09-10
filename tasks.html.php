@@ -12,6 +12,8 @@
 <header>TO_DO LIST</header>
 
 <main>
+
+	<a href="?addjoke">Add a task</a>
 	<table>
 		<thead>
 			<tr><th>No.</th><th>Task</th><th>Status</th><th>Date</th></tr>
