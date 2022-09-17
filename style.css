@@ -1,8 +1,9 @@
 window,body
 {
 	margin: 0;
-	background-color: beige;
-	color: aqua;
+
+	background-color: "navy";
+	color: "red";
 }
 
 header
